@@ -1,0 +1,52 @@
+﻿  MemberMania.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  182 of 399 functions (45.6%) were compiled, the rest were copied from previous compilation.
+    146 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+library_x64.lib(core.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(core.obj)' or at ''; linking object as if no debug info
+library_x64.lib(open.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(open.obj)' or at ''; linking object as if no debug info
+library_x64.lib(codecs.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(codecs.obj)' or at ''; linking object as if no debug info
+library_x64.lib(randombytes.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(randombytes.obj)' or at ''; linking object as if no debug info
+library_x64.lib(runtime.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(runtime.obj)' or at ''; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(utils.obj)' or at ''; linking object as if no debug info
+library_x64.lib(generichash_blake2b.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(generichash_blake2b.obj)' or at ''; linking object as if no debug info
+library_x64.lib(onetimeauth_poly1305.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(onetimeauth_poly1305.obj)' or at ''; linking object as if no debug info
+library_x64.lib(argon2-core.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(argon2-core.obj)' or at ''; linking object as if no debug info
+library_x64.lib(scalarmult_curve25519.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(scalarmult_curve25519.obj)' or at ''; linking object as if no debug info
+library_x64.lib(stream_chacha20.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(stream_chacha20.obj)' or at ''; linking object as if no debug info
+library_x64.lib(stream_salsa20.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(stream_salsa20.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aead_aegis128l.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aead_aegis128l.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aead_aegis256.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aead_aegis256.obj)' or at ''; linking object as if no debug info
+library_x64.lib(hash_sha512_cp.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(hash_sha512_cp.obj)' or at ''; linking object as if no debug info
+library_x64.lib(verify.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(verify.obj)' or at ''; linking object as if no debug info
+library_x64.lib(sign.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(sign.obj)' or at ''; linking object as if no debug info
+library_x64.lib(ed25519_ref10.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(ed25519_ref10.obj)' or at ''; linking object as if no debug info
+library_x64.lib(randombytes_sysrandom.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(randombytes_sysrandom.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(poly1305_donna.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(poly1305_donna.obj)' or at ''; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(argon2-fill-block-ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx512f.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(argon2-fill-block-avx512f.obj)' or at ''; linking object as if no debug info
+library_x64.lib(argon2-fill-block-avx2.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(argon2-fill-block-avx2.obj)' or at ''; linking object as if no debug info
+library_x64.lib(argon2-fill-block-ssse3.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(argon2-fill-block-ssse3.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-long.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-long.obj)' or at ''; linking object as if no debug info
+library_x64.lib(x25519_ref10.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(x25519_ref10.obj)' or at ''; linking object as if no debug info
+library_x64.lib(chacha20_ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(chacha20_ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-avx2.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(chacha20_dolbeau-avx2.obj)' or at ''; linking object as if no debug info
+library_x64.lib(chacha20_dolbeau-ssse3.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(chacha20_dolbeau-ssse3.obj)' or at ''; linking object as if no debug info
+library_x64.lib(salsa20_ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(salsa20_ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-sse2.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(salsa20_xmm6int-sse2.obj)' or at ''; linking object as if no debug info
+library_x64.lib(salsa20_xmm6int-avx2.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(salsa20_xmm6int-avx2.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aegis128l_soft.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aegis128l_soft.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aegis128l_aesni.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aegis128l_aesni.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aegis256_soft.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aegis256_soft.obj)' or at ''; linking object as if no debug info
+library_x64.lib(aegis256_aesni.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(aegis256_aesni.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-compress-ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-compress-ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-compress-ssse3.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-compress-ssse3.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-compress-sse41.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-compress-sse41.obj)' or at ''; linking object as if no debug info
+library_x64.lib(blake2b-compress-avx2.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(blake2b-compress-avx2.obj)' or at ''; linking object as if no debug info
+library_x64.lib(core_salsa_ref.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(core_salsa_ref.obj)' or at ''; linking object as if no debug info
+library_x64.lib(softaes.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(softaes.obj)' or at ''; linking object as if no debug info
+  MemberMania.vcxproj -> C:\Users\neute\Downloads\KLARZOXMEMBERMANIA\MemberMania\x64\Release\MemberMania.exe
