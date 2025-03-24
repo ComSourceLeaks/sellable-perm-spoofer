@@ -1,7 +1,5 @@
 # Sellable Perm Spoofer
 
-![Screenshot](Screenshot%202025-03-23%20222252.png)
-
 A high-quality, fully recoded perm spoofer source with a clean and readable structure. This spoofer features seamless integration with [KeyAuth](https://keyauth.win), ensuring a secure and efficient authentication system.
 
 ## 🚀 Features
