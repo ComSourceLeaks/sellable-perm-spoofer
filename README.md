@@ -7,6 +7,7 @@ A high-quality, fully recoded perm spoofer source with a clean and readable stru
 - **KeyAuth Integration** – Built-in authentication for added security.
 - **Stable & Reliable** – Designed for consistent performance.
 - **User-Friendly** – Easy to set up and use.
+- - **String Encoding** – All strings are encrypted using skCrypt, and has decent security aswell
 
 ## 📷 Screenshot
 ![Screenshot](Screenshot%202025-03-23%20222252.png)
